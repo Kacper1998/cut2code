@@ -652,7 +652,8 @@ header {
         display: none;
     }
     .container, .container-sm {
-        width: 100vw;
+        width: 87%;
+        margin: 0 auto;
     }
 
     .carousel-inner .carousel-item>div:first-child {
