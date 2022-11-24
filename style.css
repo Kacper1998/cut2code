@@ -652,7 +652,7 @@ header {
         display: none;
     }
     .container, .container-sm {
-        width: 94vw;
+        width: 100vw;
     }
 
     .carousel-inner .carousel-item>div:first-child {
