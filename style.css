@@ -577,6 +577,14 @@ header {
 @media screen and (max-width:500px) {
     .title {
         width: 100vw;
+        margin-top: 20em;
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .title {
+        width: 100vw;
         margin-top: 15em;
         font-size: 50px;
     }
