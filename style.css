@@ -613,6 +613,7 @@ header {
     /* identical to box height */
     color: #FFFFFF;
     margin-right: 12px;
+    border-color: #000000;
 }
 
 .btn-popular-1 {
@@ -628,7 +629,7 @@ header {
     /* identical to box height */
     color: #FFFFFF;
     position: relative;
-
+    border-color: #000000;
 }
 
 .btn-popular-1::before {
