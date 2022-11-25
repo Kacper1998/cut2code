@@ -45,3 +45,4 @@ function openCity(evt, cityName) {
       topnav.classList.remove("sticky");
     }
   }
+
